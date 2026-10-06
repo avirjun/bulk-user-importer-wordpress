@@ -132,23 +132,6 @@ Recommended security practices:
 
 ---
 
-## 📁 Project Structure
-
-```text
-bulk-user-importer-wordpress/
-│
-├── bulk-user-importer.php
-├── includes/
-├── admin/
-├── assets/
-├── readme.md
-└── README.md
-```
-
-The exact structure may vary depending on the current version of the project.
-
----
-
 ## 🔧 Technologies
 
 * PHP
@@ -162,22 +145,7 @@ The exact structure may vary depending on the current version of the project.
 
 ---
 
-## 🗺️ Roadmap
 
-Planned improvements may include:
-
-* [ ] Drag-and-drop CSV upload
-* [ ] Import progress indicator
-* [ ] Custom field mapping
-* [ ] User meta import
-* [ ] WooCommerce customer support
-* [ ] Import logs
-* [ ] Error report download
-* [ ] Update existing users
-* [ ] Custom role mapping
-* [ ] Export users to CSV
-
----
 
 ## 🤝 Contributing
 
